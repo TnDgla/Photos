@@ -151,10 +151,10 @@ The app architecture ensures seamless interaction between the frontend, backend,
 - **Tasks:**
   1. Enable image transformations (blurring, cropping, etc.).
      - **Reading:** [Cloudinary Transformations](https://cloudinary.com/documentation/image_transformations)  
-     - **Video:** [Image Editing with Cloudinary](https://www.youtube.com/watch?v=7pV_TCCK3Hw)
+     - **Video:** [Image Editing with Cloudinary](https://www.youtube.com/watch?v=VKIQ3bl-g4s)
   2. Integrate AI-powered background removal and tagging.
-     - **Reading:** [Cloudinary AI Features](https://cloudinary.com/documentation/ai_based_image_optimizations)  
-     - **Video:** [Background Removal Tutorial](https://www.youtube.com/watch?v=0Pn9aMuXWz8)
+     - **Reading:** [Cloudinary AI Features](https://cloudinary.com/documentation/ai_in_action)  
+     - **Video:** [Background Removal Tutorial](https://www.youtube.com/watch?v=FlifTBr8pV8)
 
 - **Deliverables:**
   - Advanced image editing features integrated into the app.
