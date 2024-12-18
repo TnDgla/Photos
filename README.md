@@ -182,5 +182,7 @@ The app architecture ensures seamless interaction between the frontend, backend,
 3. [ShadCN UI Guide](https://ui.shadcn.com/docs)
 4. [CSS Grid Guide](https://css-tricks.com/snippets/css/complete-guide-grid/)
 5. [Testing Web Applications](https://www.w3schools.com/js/js_validation.asp)
+6. https://www.youtube.com/watch?v=MC6D4vylKTc
+7. https://github.com/webdevcody/cloudinary-photos-app
 
 --- 
