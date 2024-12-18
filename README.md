@@ -133,13 +133,13 @@ The app architecture ensures seamless interaction between the frontend, backend,
 - **Tasks:**
   1. Implement favorites functionality using Cloudinary tags.
      - **Reading:** [Cloudinary Tagging](https://cloudinary.com/documentation/image_upload_api_reference)  
-     - **Video:** [Image Tagging Guide](https://www.youtube.com/watch?v=-HJGpZ5O_hQ)
+     - **Video:** [Image Tagging Guide](https://www.youtube.com/watch?v=BJAxCfUF-w4)
   2. Create album organization features.
-     - **Reading:** [Cloudinary Folders](https://cloudinary.com/documentation/folders)  
-     - **Video:** [Album Management](https://www.youtube.com/watch?v=lT8CUly8qN0)
+     - **Reading:** [Cloudinary Folders](https://cloudinary.com/documentation)  
+     - **Video:** [Album Management](https://www.youtube.com/watch?v=F5hEFP_IT2w)
   3. Build a sidebar for navigating albums and favorites.
      - **Reading:** [ShadCN Sidebar](https://ui.shadcn.com/docs)  
-     - **Video:** [Creating a Sidebar](https://www.youtube.com/watch?v=X3qyxo_UTR4)
+     - **Video:** [Creating a Sidebar](https://www.youtube.com/watch?v=O4AjymzpIEg&t=157s)
 
 - **Deliverables:**
   - Favorites section and album management system.
