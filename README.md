@@ -115,13 +115,13 @@ The app architecture ensures seamless interaction between the frontend, backend,
 - **Tasks:**
   1. Set up Cloudinary for media storage.
      - **Reading:** [Cloudinary Setup](https://cloudinary.com/documentation)  
-     - **Video:** [Cloudinary Quick Start](https://www.youtube.com/watch?v=ZJSY8uChHcA)
+     - **Video:** [Cloudinary Quick Start](https://www.youtube.com/watch?v=tMHFqRzpivU)
   2. Build the drag-and-drop upload feature.
      - **Reading:** [Drag-and-Drop API](https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API)  
-     - **Video:** [Drag-and-Drop Implementation](https://www.youtube.com/watch?v=MbXJj6T9fY0)
+     - **Video:** [Drag-and-Drop Implementation](https://www.youtube.com/watch?v=4AHot187Lj0&t=2s)
   3. Display uploaded images in a gallery format.
      - **Reading:** [CSS Grid Guide](https://css-tricks.com/snippets/css/complete-guide-grid/)  
-     - **Video:** [CSS Grid Layout](https://www.youtube.com/watch?v=hs3piaN4b5I)
+     - **Video:** [CSS Grid Layout](https://www.youtube.com/watch?v=7AgEjgUtho4&t=206s)
 
 - **Deliverables:**
   - Image upload functionality with a dynamic gallery display.
