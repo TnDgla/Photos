@@ -169,10 +169,25 @@ The app architecture ensures seamless interaction between the frontend, backend,
      - **Video:** [Deploying Next.js](https://www.youtube.com/watch?v=2HBIzEx6IZA)
   2. Test the application for bugs and optimize performance.
      - **Reading:** [Next.js Testing](https://nextjs.org/docs/testing)  
-     - **Video:** [Testing React Apps](https://www.youtube.com/watch?v=8Xwq35cPwYg)
+     - **Video:** [Testing React Apps](https://www.youtube.com/watch?v=AS79oJ3Fcf0)
 
 - **Deliverables:**
   - Fully deployed Photo Album web app with end-to-end functionality.
+
+---
+
+### Screenshots
+![Screenshot (326)](https://github.com/user-attachments/assets/a147edec-d24f-47cc-82be-e62261e95932)
+![Screenshot (327)](https://github.com/user-attachments/assets/f1f8f51f-74d3-44eb-9ee0-95171066cd3f)
+![Screenshot (328)](https://github.com/user-attachments/assets/3a86471a-82f9-4b4f-94e1-3ddbed72250a)
+![Screenshot (329)](https://github.com/user-attachments/assets/52471f12-5939-4017-a1b0-a17a0bf32567)
+![Screenshot (330)](https://github.com/user-attachments/assets/c4e777ad-c1f6-4e84-9287-c54358504119)
+![Screenshot (331)](https://github.com/user-attachments/assets/ce9c8776-b334-4f79-86b9-d225a96375a2)
+![Screenshot (322)](https://github.com/user-attachments/assets/b72c3468-dc1a-444b-87d2-cae5d2bf306d)
+![Screenshot (323)](https://github.com/user-attachments/assets/4ab11217-f4ae-4085-a0d4-1d4f96884ca8)
+![Screenshot (324)](https://github.com/user-attachments/assets/2fcf4e29-bde7-4c2b-a086-17f2db78aecc)
+![Screenshot (325)](https://github.com/user-attachments/assets/9f2ddd38-41ad-4cc3-a824-d5cb502e16dd)
+
 
 ---
 
